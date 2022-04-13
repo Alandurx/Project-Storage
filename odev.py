@@ -92,4 +92,3 @@ def ui():
         time.sleep(2)
         ui()
 ui()
-#Class kullanmadığım için def main fonksiyonuna da ihtiyacım kalmadı.  Çok fazla eksiğim var ama bu eksikleri nasıl düzelteceğimi bilmiyorum :) #
